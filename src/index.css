@@ -1,0 +1,44 @@
+*{margin :0;padding: 0;box-sizing: border-box;}
+
+
+.heading
+{
+  color: darksalmon;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px darksalmon;
+  margin: 50px 0; 
+}
+.img_div
+{
+   display:flex;
+   justify-content: center;
+}
+.img_div img{
+ width: 200px;
+ height: 200px;
+}
+.b_body
+{
+  background-color: deepskyblue;
+}
+.da
+{
+  text-align: center;
+  font-weight: bold;
+
+}
+.cal
+{
+  background-color: crimson;
+  text-align: center;
+  border-radius:5px;
+}
+
+.p1
+{
+   color: darkgoldenrod;
+   font-size: x-large;
+
+}
